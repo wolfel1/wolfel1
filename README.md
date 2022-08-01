@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Wolfram Woerner
+## Hi there 👋, I'm Wolfram
 A developer based in Germany
 
 - 🌱 I’m currently learning **about Game Engines**
